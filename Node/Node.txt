@@ -1,0 +1,17 @@
+
+ 
+ 1) create package.json  :-  npm init
+                      
+
+ 2) Install Express :- npm install express pg    
+
+ 3) Create Entry file  index.js :-  Stores port 3000 and require things 
+
+ 4) Connect to postgress SQL :- Open SQL shell
+                              1) Enter your pg password :- Rutu@123
+                              2) create database :- CREATE DATABASE Books;
+                              3) use that database :- \c books;
+                              4) create table 
+                              4) insert value into that table 
+
+ 5)                                                    
